@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @GOGOLD007 and I am 15 years of age.
-- 👀 I’m interested in web developing and other programing.
-- 🌱 I’m currently learning c++.
+- 👋 Hi, I’m @GOGOLD007 and I am 18 years of age.
+- 👀 I’m interested in web developing and moding Minecraft.
+- 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me - github.
 
